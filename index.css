@@ -21,7 +21,7 @@ body {
 }
 .image {
     background-color: hsl(244deg 100% 32% / 84%);
-    background-image: url(images/image-header-mobile.jpg);
+    background-image: url(./images/image-header-mobile.jpg);
     min-height: 200px;
     background-size: cover;
     background-blend-mode: overlay;
@@ -70,7 +70,7 @@ p {
     margin-top: 5px;
     letter-spacing: 1px;
 }
-@media (min-width:415px) and (max-width:1440px) {
+@media (min-width:415px) {
     .article {
         display: flex;
         max-width: 900px;
