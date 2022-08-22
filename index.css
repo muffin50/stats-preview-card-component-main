@@ -17,7 +17,7 @@ body {
     background-color: hsl(244, 38%, 16%);
     display: grid;
     grid-template-columns: minmax(150px, 350px);
-    border-radius: 0 0 10px 10px;
+    border-radius: 10px;
 }
 .image {
     background-color: hsl(244deg 100% 32% / 84%);
