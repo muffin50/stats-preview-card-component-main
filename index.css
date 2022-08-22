@@ -80,7 +80,7 @@ p {
     .image {
         width: 50%;
         border-radius: 0 10px 10px 0;
-        background-image: url(images/image-header-desktop.jpg);
+        background-image: url(./images/image-header-desktop.jpg);
     }
     .content {
         width: 50%;
