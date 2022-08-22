@@ -75,7 +75,6 @@ p {
         display: flex;
         max-width: 900px;
         flex-flow: row-reverse;
-        border-radius: 10px 0 0 10px;
     }
     .image {
         width: 50%;
