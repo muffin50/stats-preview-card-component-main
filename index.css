@@ -31,6 +31,15 @@ body {
     opacity: .8;
     mix-blend-mode: multiply;
 }
+/* .image {
+    background-color: hsl(244deg 100% 32% / 84%);
+    background-image: url(./images/image-header-mobile.jpg);
+    min-height: 200px;
+    background-size: cover;
+    background-blend-mode: overlay;
+    filter: hue-rotate(39deg);
+    border-radius: 10px 10px 0 0;
+} */
 .content {
     border-radius: 6px 6px 6px 6px;
     min-height: 300px;
@@ -73,7 +82,7 @@ p {
     margin-top: 5px;
     letter-spacing: 1px;
 }
-@media (min-width:415px) {
+@media (min-width:415px)  {
     .article {
         display: flex;
         max-width: 900px;
